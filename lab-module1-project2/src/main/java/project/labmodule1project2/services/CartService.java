@@ -7,6 +7,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Stream;
+
+import static java.util.stream.Collectors.toList;
 
 public class CartService {
     List<Item> items;
@@ -17,23 +20,34 @@ public class CartService {
         items.add(item);
     }
     public List<Item> findAllAboveItems(Integer amount){
-        List<Item> itemsAbovePrice = new ArrayList<>();
-        for(Item item:items){
-            if(amount < item.getPrice()){
-                itemsAbovePrice.add(item);
-            }
-        }
-        return itemsAbovePrice;
+
+//        for(Item item:items){
+//            if(amount < item.getPrice()){
+//                itemsAbovePrice.add(item);
+//            }
+//        }
+        return items.
+                stream().
+                filter(item -> item.getPrice() > amount).
+                toList();
     }
     public Map<Category, Integer> countAllItemsByCategory(){
         Map<Category, Integer> itemsByCategory = new HashMap<>();
-        for(Item item:items){
+        items.forEach((item)->{
             if(itemsByCategory.containsKey(item.getCategory())){
-                itemsByCategory.put(item.getCategory(),itemsByCategory.get(item.getCategory())+1);
-            }else {
-                itemsByCategory.put(item.getCategory(),1);
+                itemsByCategory.put(item.getCategory(), itemsByCategory.get(item.getCategory())+1);
+            } else {
+                itemsByCategory.put(item.getCategory(), 1);
             }
-        }
+        });
         return itemsByCategory;
+//        for(Item item:items){
+//            if(itemsByCategory.containsKey(item.getCategory())){
+//                itemsByCategory.put(item.getCategory(),itemsByCategory.get(item.getCategory())+1);
+//            }else {
+//                itemsByCategory.put(item.getCategory(),1);
+//            }
+//        }
+//        return itemsByCategory;
     }
 }

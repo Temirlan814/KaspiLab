@@ -6,10 +6,7 @@ import project.labmodule1project2.models.Category;
 import project.labmodule1project2.models.Item;
 import project.labmodule1project2.services.CartService;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 @SpringBootApplication
 public class LabModule1Project2Application {
