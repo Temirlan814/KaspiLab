@@ -17,13 +17,17 @@ public class Product {
     @Column(nullable = false)
     Integer price;
 
+    @Column
+    String address;
+
     public Product() {
     }
 
-    public Product(UUID id, String name, Integer price) {
+    public Product(UUID id, String name, Integer price, String address) {
         this.id = id;
         this.name = name;
         this.price = price;
+        this.address = address;
     }
 
     public String getName() {
@@ -48,5 +52,13 @@ public class Product {
 
     public void setId(UUID id) {
         this.id = id;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
     }
 }

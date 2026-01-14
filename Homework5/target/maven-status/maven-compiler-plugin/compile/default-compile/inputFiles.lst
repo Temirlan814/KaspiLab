@@ -1,0 +1,12 @@
+C:\Users\Temirlan\Desktop\KaspiLab\Homework5\src\main\java\project\homework5\clients\DeliveryClient.java
+C:\Users\Temirlan\Desktop\KaspiLab\Homework5\src\main\java\project\homework5\controllers\ProductController.java
+C:\Users\Temirlan\Desktop\KaspiLab\Homework5\src\main\java\project\homework5\dto\CreateProductDTO.java
+C:\Users\Temirlan\Desktop\KaspiLab\Homework5\src\main\java\project\homework5\dto\DeliveryRequestDTO.java
+C:\Users\Temirlan\Desktop\KaspiLab\Homework5\src\main\java\project\homework5\dto\DeliveryResponseDTO.java
+C:\Users\Temirlan\Desktop\KaspiLab\Homework5\src\main\java\project\homework5\dto\ProductDTO.java
+C:\Users\Temirlan\Desktop\KaspiLab\Homework5\src\main\java\project\homework5\exceptions\GlobalExceptionHandler.java
+C:\Users\Temirlan\Desktop\KaspiLab\Homework5\src\main\java\project\homework5\exceptions\ProductNotFoundException.java
+C:\Users\Temirlan\Desktop\KaspiLab\Homework5\src\main\java\project\homework5\Homework5Application.java
+C:\Users\Temirlan\Desktop\KaspiLab\Homework5\src\main\java\project\homework5\models\Product.java
+C:\Users\Temirlan\Desktop\KaspiLab\Homework5\src\main\java\project\homework5\repositories\ProductRepository.java
+C:\Users\Temirlan\Desktop\KaspiLab\Homework5\src\main\java\project\homework5\services\ProductService.java

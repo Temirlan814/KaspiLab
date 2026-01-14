@@ -1,5 +1,8 @@
 package project.homework5.controllers;
 
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.tags.Tag;
+import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import project.homework5.dto.CreateProductDTO;
 import project.homework5.dto.ProductDTO;
@@ -23,6 +26,7 @@ public class ProductController {
     }
 
     @PostMapping()
+    @ResponseStatus(HttpStatus.CREATED)
     public ProductDTO createProduct(@RequestBody CreateProductDTO dto) {
         return productService.createProduct(dto);
     }
@@ -33,6 +37,7 @@ public class ProductController {
     }
 
     @DeleteMapping("/{id}")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
     public void deleteProduct(@PathVariable UUID id) {
         productService.deleteProduct(id);
     }

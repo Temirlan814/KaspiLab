@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d35783a1-7b8f-4e91-b23b-9ad79d6d2f3e" name="Changes" comment="HomeWork 2" />
+    <list default="true" id="d35783a1-7b8f-4e91-b23b-9ad79d6d2f3e" name="Changes" comment="HomeWork 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +103,10 @@
       <workItem from="1767363646618" duration="10000" />
       <workItem from="1767786464631" duration="296000" />
       <workItem from="1767948136445" duration="639000" />
+      <workItem from="1767963202389" duration="500000" />
+      <workItem from="1768230959600" duration="31000" />
+      <workItem from="1768308729461" duration="995000" />
+      <workItem from="1768393086087" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="HomeWork 2">
       <option name="closed" value="true" />

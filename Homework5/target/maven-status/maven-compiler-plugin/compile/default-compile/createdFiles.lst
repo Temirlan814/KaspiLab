@@ -1,0 +1,13 @@
+project\homework5\dto\CreateProductDTO.class
+project\homework5\models\Product.class
+project\homework5\exceptions\GlobalExceptionHandler.class
+project\homework5\repositories\ProductRepository.class
+project\homework5\clients\DeliveryClient.class
+project\homework5\dto\ProductDTO.class
+project\homework5\exceptions\ProductNotFoundException.class
+project\homework5\dto\DeliveryResponseDTO.class
+project\homework5\dto\DeliveryRequestDTO.class
+project\homework5\Homework5Application.class
+project\homework5\controllers\ProductController.class
+project\homework5\services\ProductService.class
+project\homework5\exceptions\GlobalExceptionHandler$ErrorResponse.class
