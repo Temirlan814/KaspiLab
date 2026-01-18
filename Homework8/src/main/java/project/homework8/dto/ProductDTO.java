@@ -1,0 +1,11 @@
+package project.homework8.dto;
+
+import java.util.UUID;
+
+public record ProductDTO(
+        UUID id,
+        String name,
+        Integer price,
+        String address
+) {
+}
