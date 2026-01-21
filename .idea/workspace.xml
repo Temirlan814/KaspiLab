@@ -5,44 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d35783a1-7b8f-4e91-b23b-9ad79d6d2f3e" name="Changes" comment="HomeWork 6">
-      <change afterPath="$PROJECT_DIR$/Homework8/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/Homework8Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/clients/DeliveryClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/configs/OpenApiConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/configs/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/controllers/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/dto/CreateProductDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/dto/DeliveryRequestDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/dto/DeliveryResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/dto/ProductDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/exceptions/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/exceptions/ProductNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/repositories/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/java/project/homework8/services/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/src/test/java/project/homework8/Homework5ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/target/surefire-reports/TEST-project.homework5.Homework5ApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/target/surefire-reports/project.homework5.Homework5ApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/target/test-classes/project/homework5/Homework5ApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework8/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +129,7 @@
       <workItem from="1768540610651" duration="33000" />
       <workItem from="1768540818597" duration="1979000" />
       <workItem from="1768759638590" duration="1499000" />
+      <workItem from="1768964525990" duration="2531000" />
     </task>
     <task id="LOCAL-00001" summary="HomeWork 2">
       <option name="closed" value="true" />
