@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afd255bc-a632-42d9-a79d-849cf0706d77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6b36e867-07a7-4668-be40-e96a0ec77d51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6b36e867-07a7-4668-be40-e96a0ec77d51/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6b36e867-07a7-4668-be40-e96a0ec77d51/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6b36e867-07a7-4668-be40-e96a0ec77d51/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6b36e867-07a7-4668-be40-e96a0ec77d51/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/HomeWork10/HomeWork10ApplicationReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/HomeWork10/clients/DeliveryClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/HomeWork10/configs/OpenApiConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/HomeWork10/dto/DeliveryDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/HomeWork10/dto/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/project/HomeWork10/Homework5ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork9Delivery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork9Delivery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork9Delivery/src/main/java/project/HomeWork9Delivery/controllers/DeliveryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork9Delivery/src/main/java/project/HomeWork9Delivery/controllers/DeliveryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork9Delivery/src/main/java/project/HomeWork9Delivery/repositories/DeliveryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork9Delivery/src/main/java/project/HomeWork9Delivery/repositories/DeliveryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork9Delivery/src/main/java/project/HomeWork9Delivery/services/DeliveryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork9Delivery/src/main/java/project/HomeWork9Delivery/services/DeliveryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork9Delivery/target/classes/project/HomeWork9Delivery/controllers/DeliveryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork9Delivery/target/classes/project/HomeWork9Delivery/controllers/DeliveryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork9Delivery/target/classes/project/HomeWork9Delivery/repositories/DeliveryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork9Delivery/target/classes/project/HomeWork9Delivery/repositories/DeliveryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork9Delivery/target/classes/project/HomeWork9Delivery/services/DeliveryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork9Delivery/target/classes/project/HomeWork9Delivery/services/DeliveryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/.idea/data_source_mapping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/src/main/java/project/HomeWork9/HomeWork9Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/src/main/java/project/HomeWork9/HomeWork9Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/src/main/java/project/HomeWork9/configs/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/src/main/java/project/HomeWork9/configs/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/target/classes/project/HomeWork9/HomeWork9Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/target/classes/project/HomeWork9/HomeWork9Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/target/classes/project/HomeWork9/configs/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/target/classes/project/HomeWork9/configs/SecurityConfig.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Temirlan814&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Temirlan814/KaspiLab.git&quot;,
+    &quot;accountId&quot;: &quot;a15d2e35-bece-4ec8-8da2-11142accab70&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3814WXv9BTghhtVCbBkGTrJkRrj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.HomeWork9 [clean].executor": "Run",
+    "Maven.Homework5 [clean].executor": "Run",
+    "Maven.Homework5 [verify].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.HomeWork9Application.executor": "Run",
+    "Spring Boot.Homework5Application.executor": "Run",
+    "Spring Boot.Homework7Application.executor": "Run",
+    "Spring Boot.Homework8Application.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Temirlan/Desktop/KaspiLab/Homework10",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "spring",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="HomeWork10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork9Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="HomeWork10" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="project.HomeWork10.HomeWork10ApplicationReport" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afd255bc-a632-42d9-a79d-849cf0706d77" name="Changes" comment="" />
+      <created>1767953777044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767953777044</updated>
+      <workItem from="1767953778249" duration="4827000" />
+      <workItem from="1768393862987" duration="841000" />
+      <workItem from="1768505779621" duration="2718000" />
+      <workItem from="1768540645309" duration="22000" />
+      <workItem from="1768540693358" duration="5000" />
+      <workItem from="1768540850135" duration="12000" />
+      <workItem from="1768761876460" duration="2608000" />
+      <workItem from="1768964625271" duration="12866000" />
+      <workItem from="1769429697818" duration="3040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

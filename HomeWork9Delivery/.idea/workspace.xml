@@ -5,8 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8295fd2b-0b6a-4d53-ae40-b227488b07ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/dataSources/6b36e867-07a7-4668-be40-e96a0ec77d51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/dataSources/6b36e867-07a7-4668-be40-e96a0ec77d51/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/dataSources/6b36e867-07a7-4668-be40-e96a0ec77d51/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/dataSources/6b36e867-07a7-4668-be40-e96a0ec77d51/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/dataSources/6b36e867-07a7-4668-be40-e96a0ec77d51/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/src/main/java/project/HomeWork10/HomeWork10ApplicationReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/src/main/java/project/HomeWork10/clients/DeliveryClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/src/main/java/project/HomeWork10/configs/OpenApiConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/src/main/java/project/HomeWork10/dto/DeliveryDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/src/main/java/project/HomeWork10/dto/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/src/test/java/project/HomeWork10/Homework5ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/.idea/data_source_mapping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/src/main/java/project/HomeWork9/HomeWork9Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/src/main/java/project/HomeWork9/HomeWork9Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/src/main/java/project/HomeWork9/configs/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/src/main/java/project/HomeWork9/configs/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/target/classes/project/HomeWork9/HomeWork9Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/target/classes/project/HomeWork9/HomeWork9Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/target/classes/project/HomeWork9/configs/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/target/classes/project/HomeWork9/configs/SecurityConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +62,10 @@
     &quot;accountId&quot;: &quot;a15d2e35-bece-4ec8-8da2-11142accab70&quot;
   }
 }</component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -98,6 +132,7 @@
       <workItem from="1768538372825" duration="635000" />
       <workItem from="1768964648641" duration="5752000" />
       <workItem from="1768984226440" duration="1899000" />
+      <workItem from="1769431372586" duration="1375000" />
     </task>
     <servers />
   </component>

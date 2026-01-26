@@ -39,6 +39,10 @@ public class DeliveryService {
                 .switchIfEmpty(Mono.error(new RuntimeException("Delivery not found: " + id)))
                 .map(this::toResponse);
     }
+    public Mono<DeliveryResponse> getDeliveryByProductId(UUID id) {
+        return deliveryRepository.findByProductId(id)  // Mono<Delivery>
+                .switchIfEmpty(Mono.error(new RuntimeException("Delivery not found for product: " + id)));
+    }
 
     private DeliveryResponse toResponse(Delivery delivery) {
         return new DeliveryResponse(
@@ -49,4 +53,5 @@ public class DeliveryService {
                 delivery.getCreatedAt()
         );
     }
+
 }

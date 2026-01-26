@@ -36,4 +36,8 @@ public class DeliveryController {
     public Mono<DeliveryResponse> getDeliveryById(@PathVariable UUID id) {
         return deliveryService.getDeliveryById(id);
     }
+    @GetMapping("/product/{productId}")
+    public Mono<DeliveryResponse> getDeliveryByProductId(@PathVariable UUID productId) {
+        return deliveryService.getDeliveryByProductId(productId);
+    }
 }

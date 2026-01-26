@@ -35,15 +35,18 @@ public class SecurityConfig {
     public SecurityWebFilterChain securityWebFilterChain(ServerHttpSecurity http) {
         return http
                 .csrf(ServerHttpSecurity.CsrfSpec::disable)
-                .authorizeExchange(a -> a
-                        .pathMatchers(
-                                "/swagger-ui.html",
-                                "/swagger-ui/**",
-                                "/api-docs/**",
-                                "/webjars/**"
-                        ).permitAll()
-                        .anyExchange().authenticated()
-                )
+                .authorizeExchange(ex -> ex.anyExchange().permitAll())
+
+//                .authorizeExchange(a -> a
+//                        .pathMatchers(
+//                                "/reports/**",
+//                                "/swagger-ui.html",
+//                                "/swagger-ui/**",
+//                                "/api-docs/**",
+//                                "/webjars/**"
+//                        ).permitAll()
+//                        .anyExchange().authenticated()
+//                )
                 .httpBasic(Customizer.withDefaults())
                 .build();
     }
