@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8295fd2b-0b6a-4d53-ae40-b227488b07ad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork9Delivery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork9Delivery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/src/main/java/project/HomeWork9/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/src/main/java/project/HomeWork9/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/target/classes/project/HomeWork9/services/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/target/classes/project/HomeWork9/services/ProductService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,33 +51,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Spring Boot.HomeWork6Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.HomeWork9DeliveryApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Temirlan/Desktop/KaspiLab/HomeWork9Delivery&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.HomeWork11DeliveryApplication.executor": "Run",
+    "Spring Boot.HomeWork6Application.executor": "Run",
+    "Spring Boot.HomeWork9DeliveryApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Temirlan/Desktop/KaspiLab/HomeWork11Delivery",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="HomeWork9DeliveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="HomeWork9Delivery" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="project.HomeWork9Delivery.HomeWork9DeliveryApplication" />
+    <configuration name="HomeWork11DeliveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="HomeWork11Delivery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="project.HomeWork11Delivery.HomeWork11DeliveryApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,6 +106,9 @@
       <workItem from="1768984226440" duration="1899000" />
       <workItem from="1769431372586" duration="1375000" />
       <workItem from="1769492553070" duration="596000" />
+      <workItem from="1769602129827" duration="2255000" />
+      <workItem from="1769604434071" duration="6000" />
+      <workItem from="1769604497883" duration="35000" />
     </task>
     <servers />
   </component>
@@ -127,5 +137,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
 </project>
